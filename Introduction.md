@@ -4,7 +4,7 @@
 
 第1章，是Prometheus基础的综述，通过一个简单案例（使用Prometheus采集主机的监控数据）来了解Prometheus是什么，能做什么，以及它的架构组成。通过阅读本章希望读者能对Prometheus有一个基本的理解和认识。
 
-第2章，读者将会了解到Prometheus的数据模型，以及时间序列模型。同时会学习到如何利用Prometheus的数据查询语言PrmQL(Prometheus Query Language)对监控数据进行查询、聚合、计算等。
+第2章，读者将会了解到Prometheus的数据模型，以及时间序列模型。同时会学习到如何利用Prometheus的数据查询语言PromQL(Prometheus Query Language)对监控数据进行查询、聚合、计算等。
 
 第3章，我们的重点将放在监控告警部分，作为监控系统的重要能力之一，我们希望能够及时的了解系统的变化。这一章中读者将学习如何在Prometheus中自定义告警规则，同时了解如何使用AlertManager对告警进行处理。
 
